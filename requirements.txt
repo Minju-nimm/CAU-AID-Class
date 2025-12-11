@@ -1,0 +1,66 @@
+altair==6.0.0
+asttokens @ file:///croot/asttokens_1743630435401/work
+attrs==25.4.0
+blinker==1.9.0
+cachetools==6.2.2
+certifi==2025.11.12
+charset-normalizer==3.4.4
+click==8.3.1
+comm @ file:///home/task_176311912485839/conda-bld/comm_1763119193329/work
+debugpy @ file:///home/task_176242089189943/conda-bld/debugpy_1762421640390/work
+decorator @ file:///home/task_175734097812358/conda-bld/decorator_1757341231906/work
+exceptiongroup @ file:///home/task_176156033398806/conda-bld/exceptiongroup_1761560346388/work
+executing @ file:///home/task_175706097762404/conda-bld/executing_1757061230060/work
+gitdb==4.0.12
+GitPython==3.1.45
+idna==3.11
+ipykernel @ file:///home/task_176294606332092/conda-bld/ipykernel_1762946076634/work
+ipython @ file:///croot/ipython_1734548052611/work
+jedi @ file:///croot/jedi_1733987392413/work
+Jinja2==3.1.6
+joblib==1.5.2
+jsonschema==4.25.1
+jsonschema-specifications==2025.9.1
+jupyter_client @ file:///home/task_176294301118019/conda-bld/jupyter_client_1762943082377/work
+jupyter_core @ file:///home/task_176458821174145/conda-bld/jupyter_core_1764588287078/work
+MarkupSafe==3.0.3
+matplotlib-inline @ file:///home/task_176277917297058/conda-bld/matplotlib-inline_1762779216380/work
+narwhals==2.13.0
+nest-asyncio @ file:///croot/nest-asyncio_1708532673751/work
+numpy==2.2.6
+packaging @ file:///home/task_176104877067765/conda-bld/packaging_1761049113113/work
+pandas==2.3.3
+parso @ file:///home/task_176278180367815/conda-bld/parso_1762781859743/work
+pexpect @ file:///home/task_176253513056498/conda-bld/pexpect_1762535937673/work
+pillow==12.0.0
+platformdirs @ file:///home/task_176235608007063/conda-bld/platformdirs_1762356488148/work
+prompt_toolkit @ file:///home/task_176174483237982/conda-bld/prompt-toolkit_1761744846465/work
+protobuf==6.33.2
+psutil @ file:///home/task_176189642285093/conda-bld/psutil_1761896463775/work
+ptyprocess @ file:///opt/miniconda3/conda-bld/ptyprocess_1762424170819/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl#sha256=3470be7f810474c8a2ecfcd6e02acc6aea8483ab595417fa4e336362a349933e
+pure_eval @ file:///home/task_175706683913895/conda-bld/pure_eval_1757067047727/work
+pyarrow==22.0.0
+pydeck==0.9.1
+Pygments @ file:///home/task_176243133176773/conda-bld/pygments_1762431407223/work
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytz==2025.2
+pyzmq @ file:///home/task_176237539786758/conda-bld/pyzmq_1762375586858/work
+referencing==0.37.0
+requests==2.32.5
+rpds-py==0.30.0
+scikit-learn==1.7.2
+scipy==1.15.3
+six @ file:///croot/six_1744271502820/work
+smmap==5.0.2
+stack_data @ file:///home/task_175706683891681/conda-bld/stack_data_1757067036413/work
+streamlit==1.52.1
+tenacity==9.1.2
+threadpoolctl==3.6.0
+toml==0.10.2
+tornado @ file:///croot/tornado_1748956929273/work
+traitlets @ file:///croot/traitlets_1718227057033/work
+typing_extensions @ file:///croot/typing_extensions_1756280817316/work
+tzdata==2025.2
+urllib3==2.6.1
+watchdog==6.0.0
+wcwidth @ file:///croot/wcwidth_1750352883074/work
